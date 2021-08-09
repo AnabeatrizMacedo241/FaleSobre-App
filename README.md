@@ -1,23 +1,23 @@
-<center><h2>Fale Sobre</h2></center> <img src="https://user-images.githubusercontent.com/80490047/128760467-2b186f0c-b09e-4e36-82a0-d8cad6f3c193.png" width="100"> <p><i>Imagem feita pelas autoras<i/><p/>
+<center><h2>Fale Sobre</h2></center> <img src="https://user-images.githubusercontent.com/80490047/128760467-2b186f0c-b09e-4e36-82a0-d8cad6f3c193.png" width="100"> <p><i>Imagem by the project authors<i/><p/>
 	
 
 
-<h4><a href="#about">Autoras</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#duvidas">Dúvida</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a> |</h4>
+<h4><a href="#about">Authors</a> | <a href="#introduction">Introduction</a> | <a href="#project">The project</a> | <a href="#duvidas">Questions</a> | <a href="#vd">App design</a> | <a href="#reference">References</a> | <a href="#acknowledgement">What could we learn from it?</a> |</h4>
 
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
-<h2 id="about">Autoras</h2>
+<h2 id="about">Authors</h2>
 
 <img src="https://user-images.githubusercontent.com/80490047/128752878-0c54332b-7b2f-4d1f-a5c5-6d6556d10cad.jpg" align="left" width="170"/> 
 
 <br />
 
-<p><strong>Nome: </strong>Bruna Bellini Faria</p> 
-<p><strong>País: </strong></h4>Brasil</p>
-<p><strong>Grau de escolaridade: </strong></p>
-<p><u>Graduação em andamento: </u></strong>Ciência de Dados e Inteligência Artificial</p>
-<p><u>Faculdade: </u></strong>PUC-SP</p>
+<p><strong>Name: </strong>Bruna Bellini Faria</p> 
+<p><strong>Country: </strong></h4>Brasil</p>
+<p><strong>Scholarity: </strong></p>
+<p><u>Graduação em andamento: </u></strong>Data Science and AI</p>
+<p><u>University: </u></strong>PUC-SP</p>
 
 <br />
 <br />
@@ -26,20 +26,20 @@
 
 <br />
 
-<p><strong>Nome: </strong>Ana Beatriz Oliveira de Macedo</p> 
-<p><strong>País: </strong></h4>Brasil</p>
-<p><strong>Grau de escolaridade:</strong></p>
-<p><u>Graduação em andamento: </u></strong>Ciência de Dados e Inteligência Artificial</p>
-<p><u>Faculdade: </u></strong>PUC-SP</p>
+<p><strong>Name: </strong>Ana Beatriz Oliveira de Macedo</p> 
+<p><strong>Country: </strong></h4>Brasil</p>
+<p><strong>Scholarity: undergrad student</strong></p>
+<p><u>Graduação em andamento: </u></strong>Data Science and AI</p>
+<p><u>University: </u></strong>PUC-SP</p>
 
 <br />
 <br />
-<i>Imagens feitas por Memoji Apple<i/>
+<i>Images by memoji Apple<i/>
 <br />
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="introduction">Introdução </h2>
+<h2 id="introduction">Introduction </h2>
 
 
 <p>
@@ -52,9 +52,9 @@
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="project">O projeto</h2>
+<h2 id="project">The project</h2>
 
-<strong>Pré-requisitos:</strong>
+<strong>Prerequisites:</strong>
 <p>
 	<ul>
 		<li>Design de aplicativos</li>
@@ -66,23 +66,23 @@
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="duvidas">Dúvida</h2>
+<h2 id="duvidas">Questions</h2>
 
-<strong>Concorrente ou complementar? </strong>
+<strong>Competition or complementary? </strong>
 <p>
 	Podemos pensar agora se o aplicativo seria um concorrente para o CVV (Centro de Valorização a Vida) e outras organizações que ajudam quem precisa. Porém, ao olharmos e compararmos provamos que não seriamos concorrentes e sim complementares, pois nosso foco de usuários é para aqueles que desejam ajudar, desenvolvendo uma comunicação e interação com aqueles que aparentam precisar de ajuda ou já deixaram explícito a tendência suicida, demonstrando que dentro dessa intenção temos o objetivo de nos destacar nos quesitos de eficiência, pelas dinâmicas pré prontas fáceis e diretas, e de facilidade de uso, por funcionar a partir de um sistema completamente remoto e pelo direcionamento das atividades ser por meio de formulário. Ao contrário do CVV, que utiliza de atendimentos remotos e presenciais com necessidade de funcionamento a partir de pessoas ativas, para ajudar diretamente a pessoa que está tendo algum tipo de crise ou problema.
 </p>
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="vd">Design em andamento</h2>
+<h2 id="vd">Design in progress</h2>
 <ul>
 	<li><strong>Para acessar o design do aplicativo no MarvelApp: </strong><a href="https://marvelapp.com/prototype/5agdbgb">Design Link</a></li>
 </ul>
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2>Resultados</h2>
+<h2>Results</h2>
 
 Abaixo você encontra o link do repositório com todos os dados até então coletados para a evolução do projeto e análise de dados para o futuro desenvolvimento do aplicativo.
 
@@ -92,7 +92,7 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/>  
-<h2>Planos futuros</h2>
+<h2>Future plans</h2>
 <p>Esse projeto ainda está em desenvolvimento e necessita de ajuda para continuar crescendo.</p>
 
 <ul>
@@ -104,7 +104,7 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="reference">Referências</h2>
+<h2 id="reference">References</h2>
 
 <ul>
 	<li>https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016</li>
@@ -125,7 +125,7 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 <br />
 	
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
-<h2 id="acknowledgement">Conhecimentos</h2>
+<h2 id="acknowledgement">What could we learn from it?</h2>
 
 <p>
 	Foi muito importante para todo o desenvolvimento do trabalho manter a mente aberta para buscar diversos dados e informações muito diferentes do que estamos acostumados, a formulação dos dados para tentar diminuir o tabu da sociedade com o tema do suicídio foi um grande foco deste trabalho, durante o processo de desenvolvimento houve vários debates sobre o tema, muitos deles foram entre as autoras e os colegas de classe, porém um deles foi com uma professora de psicologia da PUC-SP, Paula Peron. Todo esse esforço fez com que entendêssemos muito mais sobre o assunto a ponto de conseguirmos reconhecer e ajudar alguém com tendências suicidas da maneira mais correta possível em questão de abordagem e do suporte a essa pessoa no geral. Por fim, esta nova visão de mundo nos fez diminuir a negligência e minimização do tema que a sociedade impôs em nós.
@@ -143,4 +143,4 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 <br />
 <br />
 
-<p align="right"><i>Imagem feita por Slidesgo<i/></p>
+<p align="right"><i>Images by Slidesgo<i/></p>
