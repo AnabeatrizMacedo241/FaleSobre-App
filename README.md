@@ -14,7 +14,7 @@
 <br />
 
 <p><strong>Name: </strong>Bruna Bellini Faria</p> 
-<p><strong>Country: </strong></h4>Brasil</p>
+<p><strong>Country: </strong></h4>Brazil</p>
 <p><strong>Scholarity: </strong></p>
 <p><u>Graduação em andamento: </u></strong>Data Science and AI</p>
 <p><u>University: </u></strong>PUC-SP</p>
@@ -27,7 +27,7 @@
 <br />
 
 <p><strong>Name: </strong>Ana Beatriz Oliveira de Macedo</p> 
-<p><strong>Country: </strong></h4>Brasil</p>
+<p><strong>Country: </strong></h4>Brazil</p>
 <p><strong>Scholarity: undergrad student</strong></p>
 <p><u>Graduação em andamento: </u></strong>Data Science and AI</p>
 <p><u>University: </u></strong>PUC-SP</p>
@@ -57,10 +57,10 @@
 <strong>Prerequisites:</strong>
 <p>
 	<ul>
-		<li>Design de aplicativos</li>
-		<li>Construção de aplicativos</li>
+		<li>App designers</li>
+		<li>App developing</li>
 		<li>HTML</li>
-		<li>Dedicação, paciência e mente aberta</li>
+		<li>Dedication, patience and open mindedness</li>
 	</ul>
 </p>
 <br />
